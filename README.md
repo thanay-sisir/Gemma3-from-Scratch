@@ -2,9 +2,9 @@
 
 ## About The Project
 
-This project is a complete, from-scratch implementation of a **270 Million parameter Small Language Model (SLM)** based on the **Gemma 3** architecture. The entire pipeline is built using **PyTorch** and covers every stage of development: from data processing and tokenization to defining an optimized transformer architecture, running a robust training loop, and performing inference for text generation.
+This project is a complete, from-scratch implementation of a **270 Million parameter Small Language Model (SLM)** based on the **Gemma 3** architecture.
 
-The model is trained on the **TinyStories dataset** and is capable of generating coherent and creative short stories from a given prompt.
+
 
 ---
 
