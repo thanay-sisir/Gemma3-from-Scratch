@@ -10,7 +10,6 @@ This project is a complete, from-scratch implementation of a **270 Million param
 
 ## Model Architecture
 
-The model's architecture is a faithful implementation of the Gemma 3 design, optimized for both performance and efficiency.
 
 ### Core Configuration
 
@@ -42,7 +41,6 @@ The model is configured with the following hyperparameters:
 
 ## Key Achievements & Metrics
 
-This section provides a quantitative summary of the project's parameters and performance.
 
 ### Model Scale
 
